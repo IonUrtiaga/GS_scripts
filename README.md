@@ -45,7 +45,6 @@ GS-scripts/
 | `GS_Index_km.m` | Converts GSI to km using the MDT gradient |
 | `GSPI.m` | Gulf Stream Path Index (GSPI): mean GS latitude between 72°W–52°W |
 | `GSDI.m` | GS Destabilization Index (GSDI) following Andres (2016) |
-| `adt2velgeos.m` | Converts ADT to geostrophic velocity |
 | `timenc2datenum.m` | Converts NetCDF time to MATLAB datenum |
 
 ### save/
