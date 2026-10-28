@@ -66,7 +66,7 @@ GS-scripts/
 
 ## Data
 
-DUACS altimetry products are available via CMEMS ([all-sat](https://doi.org/10.48670/moi-00148), [two-sat](https://doi.org/10.48670/moi-00145)). CMIP6 and HighResMIP model outputs are available through the [Earth System Grid Federation (ESGF)](https://esgf-node.llnl.gov/search/cmip6/). Variables used: zos, tas, tos, psl, pr, hus, evspsbl, ua, va, ugos, vgos. Pre-computed `.mat` files are available upon request to the corresponding author.
+DUACS altimetry products are available via CMEMS ([all-sat](https://doi.org/10.48670/moi-00148), [two-sat](https://doi.org/10.48670/moi-00145)). CMIP6 and HighResMIP model outputs are available through the [Earth System Grid Federation (ESGF)](https://esgf-node.llnl.gov/search/cmip6/). Variables used: zos, tas, tos, psl, pr, hus, evspsbl, ua, va, ugos, vgos. All model variables were bilinearly interpolated onto a regular 0.25° × 0.25° grid prior to analysis. Pre-computed `.mat` files are available upon request to the corresponding author.
 
 ---
 
