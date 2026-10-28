@@ -46,7 +46,6 @@ GS-scripts/
 | `GSPI.m` | Gulf Stream Path Index (GSPI): mean GS latitude between 72°W–52°W |
 | `GSDI.m` | GS Destabilization Index (GSDI) following Andres (2016) |
 | `adt2velgeos.m` | Converts ADT to geostrophic velocity |
-| `DWBCx.m` | DWBC transport from zonal velocity across a section |
 | `timenc2datenum.m` | Converts NetCDF time to MATLAB datenum |
 
 ### save/
